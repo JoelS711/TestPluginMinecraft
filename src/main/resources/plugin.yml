@@ -1,0 +1,4 @@
+name: Test
+version: '1.0-SNAPSHOT'
+main: org.joels.test.Test
+api-version: '1.20'
