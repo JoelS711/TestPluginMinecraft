@@ -1,0 +1,29 @@
+# Ignorar carpetas de configuración de IntelliJ IDEA
+.idea/
+*.iml
+
+# Ignorar archivos de compilación
+/out/
+/target/
+/bin/
+
+# Ignorar dependencias descargadas por Maven o Gradle
+/.mvn/
+/.gradle/
+/build/
+
+# Ignorar archivos de sistema
+*.log
+*.class
+*.jar
+*.war
+*.zip
+
+# Ignorar archivos de configuración personales
+*.properties
+*.env
+*.DS_Store
+Thumbs.db
+
+# Ignorar archivos de Spigot/Paper
+/plugins/
