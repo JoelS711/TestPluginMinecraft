@@ -7,7 +7,7 @@ public final class Test extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        getCommand("heal").setExecutor(new HealCommand());
+        getCommand("oasis").setExecutor(new OasisCommand());
     }
 
 //    @Override
